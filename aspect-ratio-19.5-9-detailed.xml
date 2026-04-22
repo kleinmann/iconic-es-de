@@ -410,6 +410,7 @@ based on 1920x886
          </datetime>
          <text name="game-name-extended">
             <size>0.425 ${metaDatafontSize}</size>
+            <lineSpacing>1.4</lineSpacing>
          </text>
          <text name="game-players-extended">
             <size>0 ${metaDatafontSize}</size>

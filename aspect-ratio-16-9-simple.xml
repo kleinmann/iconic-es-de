@@ -222,6 +222,7 @@ based on 1920x1080
             <lineSpacing>1.2</lineSpacing>
             <visible>${metadataExtended}</visible>
             <fontSize>${metaDatafontSize}</fontSize>
+            <lineSpacing>1.2</lineSpacing>
          </text>
          <rating name="game-rating-extended">
             <pos>0.079 0.712</pos>

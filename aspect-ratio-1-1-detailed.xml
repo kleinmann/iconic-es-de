@@ -396,6 +396,7 @@ based on 1080 x 1080
          </datetime>
          <text name="game-name-extended">
             <size>0.414 ${metaDatafontSize}</size>
+            <lineSpacing>1.2</lineSpacing>
          </text>
          <text name="game-players-extended">
             <size>0 ${metaDatafontSize}</size>

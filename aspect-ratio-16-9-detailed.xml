@@ -400,7 +400,8 @@ based on 1920x1080
             <fontSize>${metaDatafontSize}</fontSize>
          </datetime>
          <text name="game-name-extended">
-            <size>0.425 ${metaDatafontSize}</size>
+            <size>0.425 0</size>
+            <lineSpacing>1.4</lineSpacing>
          </text>
          <text name="game-players-extended">
             <size>0 ${metaDatafontSize}</size>
@@ -433,9 +434,9 @@ based on 1920x1080
             <zIndex>4</zIndex>
          </image>
          <text name="game-name-base">
-            <size>.413 ${metaDatafontSize}</size>
+            <size>.413 0</size>
             <visible>${metadataBase}</visible>
-            <lineSpacing>1.2</lineSpacing>
+            <lineSpacing>1.4</lineSpacing>
             <fontSize>${metaDatafontSize}</fontSize>
          </text>
          <rating name="game-rating-base">
