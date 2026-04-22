@@ -219,7 +219,6 @@ based on 1920x1080
          <text name="game-name-extended">
             <pos>0.068 0.6565</pos>
             <size>.31 ${metaDatafontSize}</size>
-            <lineSpacing>1.2</lineSpacing>
             <visible>${metadataExtended}</visible>
             <fontSize>${metaDatafontSize}</fontSize>
             <lineSpacing>1.2</lineSpacing>
